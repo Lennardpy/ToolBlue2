@@ -1,0 +1,9 @@
+voila
+ipywidgets
+numpy
+pandas
+matplotlib
+yfinance
+scipy
+cvxopt
+streamlit
